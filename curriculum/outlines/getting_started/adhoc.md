@@ -17,12 +17,12 @@ Just some Adhoc problems!
 
 | Problem        | Tags          | Notes  | Solution |
 |:------------- |:-------------|:-----|:--------|
-| [Multiplication Table](http://codeforces.com/problemset/problem/577/A) |       |     | [link](http://codeforces.com/contest/577/submission/12926515) |
-| [Bear and Finding Criminals](http://codeforces.com/problemset/problem/680/B) | | | [link](http://codeforces.com/problemset/problem/680/B) |
-| [Guess the Permutation](http://codeforces.com/problemset/problem/618/B) | | | [link](http://codeforces.com/contest/618/submission/15653301)|
+| [Multiplication Table](http://codeforces.com/problemset/problem/577/A) |       |Solved    | [link](http://codeforces.com/contest/577/submission/12926515) |
+| [Bear and Finding Criminals](http://codeforces.com/problemset/problem/680/B) | |Solved | [link](http://codeforces.com/problemset/problem/680/B) |
+| [Guess the Permutation](http://codeforces.com/problemset/problem/618/B) | |Solved | [link](http://codeforces.com/contest/618/submission/15653301)|
 | [Punctuation](http://codeforces.com/problemset/problem/147/A)| | | [link](http://codeforces.com/contest/147/submission/19827974)|
 | [Rewards](http://codeforces.com/problemset/problem/448/A) |       |  ceiling with integer division   | [link](http://codeforces.com/contest/448/submission/21388142) |
-| [Bachgold Problem](http://codeforces.com/contest/749/problem/A) |       |     | [link](http://codeforces.com/contest/749/submission/23144882) |
+| [Bachgold Problem](http://codeforces.com/contest/749/problem/A) |       |Solved     | [link](http://codeforces.com/contest/749/submission/23144882) |
 | [Infinite Sequence](http://codeforces.com/problemset/problem/675/A) | | | [link](http://codeforces.com/contest/675/submission/17934991) |
 | [Inna and Choose Options](http://codeforces.com/problemset/problem/400/A) | | | [link](http://codeforces.com/contest/400/submission/12474966) |
 | [Visiting a Friend](http://codeforces.com/problemset/problem/902/A) |       |     | [link](http://codeforces.com/contest/902/submission/33457561) |
