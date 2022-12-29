@@ -24,7 +24,7 @@ Just some Adhoc problems!
 | [Rewards](http://codeforces.com/problemset/problem/448/A) |       | Solved   | [link](http://codeforces.com/contest/448/submission/21388142) |
 | [Bachgold Problem](http://codeforces.com/contest/749/problem/A) |       |Solved     | [link](http://codeforces.com/contest/749/submission/23144882) |
 | [Infinite Sequence](http://codeforces.com/problemset/problem/675/A) | |Solved | [link](http://codeforces.com/contest/675/submission/17934991) |
-| [Inna and Choose Options](http://codeforces.com/problemset/problem/400/A) | | | [link](http://codeforces.com/contest/400/submission/12474966) |
+| [Inna and Choose Options](http://codeforces.com/problemset/problem/400/A) | |Solved | [link](http://codeforces.com/contest/400/submission/12474966) |
 | [Visiting a Friend](http://codeforces.com/problemset/problem/902/A) |       |     | [link](http://codeforces.com/contest/902/submission/33457561) |
 | [Cheap Travel](http://codeforces.com/problemset/problem/466/A) |       |     | [link](http://codeforces.com/contest/466/submission/16349453) |
 | [Initial Bet](http://codeforces.com/problemset/problem/478/A) |       |     | [link](http://codeforces.com/contest/478/submission/16349663) |
