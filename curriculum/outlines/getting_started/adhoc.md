@@ -26,8 +26,8 @@ Just some Adhoc problems!
 | [Infinite Sequence](http://codeforces.com/problemset/problem/675/A) | |Solved | [link](http://codeforces.com/contest/675/submission/17934991) |
 | [Inna and Choose Options](http://codeforces.com/problemset/problem/400/A) | |Solved | [link](http://codeforces.com/contest/400/submission/12474966) |
 | [Visiting a Friend](http://codeforces.com/problemset/problem/902/A) |       |  Solved   | [link](http://codeforces.com/contest/902/submission/33457561) |
-| [Cheap Travel](http://codeforces.com/problemset/problem/466/A) |       |     | [link](http://codeforces.com/contest/466/submission/16349453) |
-| [Initial Bet](http://codeforces.com/problemset/problem/478/A) |       |     | [link](http://codeforces.com/contest/478/submission/16349663) |
+| [Cheap Travel](http://codeforces.com/problemset/problem/466/A) |       | Solved    | [link](http://codeforces.com/contest/466/submission/16349453) |
+| [Initial Bet](http://codeforces.com/problemset/problem/478/A) |       |  Solved   | [link](http://codeforces.com/contest/478/submission/16349663) |
 | [Pashmak and Garden](http://codeforces.com/problemset/problem/459/A) |       |     | [link](http://codeforces.com/contest/459/submission/17912788) |
 | [Vitya in the Countryside](http://codeforces.com/problemset/problem/719/A) |       |     | [link](http://codeforces.com/contest/719/submission/20890852) |
 | [Currency System](http://codeforces.com/problemset/problem/560/A) |       |     | [link](http://codeforces.com/contest/560/submission/17421116) |
